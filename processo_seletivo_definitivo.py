@@ -180,7 +180,7 @@ def generate_report(input_docx, output_pdf):
 
 # **Caminhos de exemplo para os arquivos de entrada e saída**
 input_file = "Guia_de_Investimentos_(lista_de_Trends).docx"  # **A cada novo documento word, é necessário subir o arquivo na plataforma e aletrar seu nome para que a máquina atualize as informações**
-output_file = "Relatorio_Investimentos_Familia_Trend_3.pdf" #Nome do aruivo gerado em PDF
+output_file = "Relatorio_Investimentos.pdf" #Nome do aruivo gerado em PDF
 
 # **Gera o relatório**
 generate_report(input_file, output_file)
